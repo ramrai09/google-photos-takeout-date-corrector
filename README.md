@@ -1,4 +1,4 @@
-# google-photos-timestamper
+# google-photos-takeout-date-corrector
 
 Usign [Google Takeout](https://takeout.google.com/settings/takeout) you can export your photos saved in Google Photos to migrate wherever else you want
 However, the while on google servers, the metadata from the files gets stripped from the images and put in separate JSONs. 
